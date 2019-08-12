@@ -33,7 +33,7 @@ public:
 	}
 };
 
-int main() {
+int main1() {
 	Solution solution;
 	vector<int> nums;
 	nums.push_back(2);
