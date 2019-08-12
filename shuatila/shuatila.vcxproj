@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="16最接近的三数之和.cpp" />
+    <None Include="16最接近的三数之和.cpp" />
+    <None Include="两数相加.cpp" />
     <None Include="三数之和.cpp" />
     <None Include="两数之和.cpp" />
   </ItemGroup>
