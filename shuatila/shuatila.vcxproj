@@ -19,8 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="三数之和.cpp" />
-    <ClCompile Include="两数之和.cpp" />
+    <ClCompile Include="16最接近的三数之和.cpp" />
+    <None Include="三数之和.cpp" />
+    <None Include="两数之和.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\readme.md" />
