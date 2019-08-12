@@ -27,6 +27,9 @@
   <ItemGroup>
     <None Include="..\readme.md" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="43字符串相乘.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>
