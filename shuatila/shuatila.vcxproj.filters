@@ -30,6 +30,9 @@
     <ClCompile Include="43字符串相乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3无重复字符的最长子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\readme.md" />
