@@ -33,6 +33,10 @@
   <ItemGroup>
     <None Include="3无重复字符的最长子串.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="4寻找两个有序数组的中位数.cpp" />
+    <ClCompile Include="5最长回文子串.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>
