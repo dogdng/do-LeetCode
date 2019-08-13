@@ -19,23 +19,24 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <None Include="16最接近的三数之和.cpp" />
-    <None Include="两数相加.cpp" />
-    <None Include="三数之和.cpp" />
-    <None Include="两数之和.cpp" />
+    <None Include="16_最接近的三数之和.cpp" />
+    <None Include="2_两数相加.cpp" />
+    <None Include="15_三数之和.cpp" />
+    <None Include="1_两数之和.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\readme.md" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="43字符串相乘.cpp" />
+    <None Include="43_字符串相乘.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="3无重复字符的最长子串.cpp" />
+    <None Include="3_无重复字符的最长子串.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4寻找两个有序数组的中位数.cpp" />
-    <ClCompile Include="5最长回文子串.cpp" />
+    <ClCompile Include="295_数据流的中位数.cpp" />
+    <ClCompile Include="4_寻找两个有序数组的中位数.cpp" />
+    <ClCompile Include="5_最长回文子串.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

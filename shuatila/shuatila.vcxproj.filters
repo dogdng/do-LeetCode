@@ -33,10 +33,13 @@
     <ClCompile Include="3无重复字符的最长子串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4寻找两个有序数组的中位数.cpp">
+    <ClCompile Include="295_数据流的中位数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="5最长回文子串.cpp">
+    <ClCompile Include="4_寻找两个有序数组的中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5_最长回文子串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
