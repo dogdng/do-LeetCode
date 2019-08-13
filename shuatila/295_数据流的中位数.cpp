@@ -7,50 +7,20 @@ public:
 	MedianFinder() {
 
 	}
-	struct cmp {
-		bool operator ()(int &a, int &b) {
-			return a > b;//最小值优先 
-		}
-	};
 	priority_queue<int> bigHead;
-	priority_queue<int, vector<int>, cmp> smallHead;
+	priority_queue<int, vector<int>, greater<int> > smallHead;
 	void addNum(int num) {
-		cnt++;
-		if (bigHead.empty()) {
-			bigHead.push(num);
-		}
-		else {
-			if (num > bigHead.top()) {
-				smallHead.push(num);
-				if (smallHead.size() - bigHead.size() > 1)
-				{
-					bigHead.push(smallHead.top());
-					smallHead.pop();
-				}
-			}
-			else {
-				bigHead.push(num);
-				if (bigHead.size() - smallHead.size() > 1)
-				{
-					smallHead.push(bigHead.top());
-					bigHead.pop();
-				}
-			}
+		bigHead.push(num);
+		smallHead.push(bigHead.top());
+		bigHead.pop();
+
+		if (smallHead.size() > bigHead.size()) {
+			bigHead.push(smallHead.top());
+			smallHead.pop();
 		}
 	}
-	int cnt = 0;
 	double findMedian() {
-		if (cnt % 2 == 0) {
-			return (double)(bigHead.top() + smallHead.top()) / 2.0;
-		}
-		else {
-			if (bigHead.size() > smallHead.size()) {
-				return (double)bigHead.top();
-			}
-			else {
-				return (double)smallHead.top();
-			}
-		}
+		return bigHead.size() > smallHead.size() ? bigHead.top() : (double)(bigHead.top() + smallHead.top()) / 2;
 	}
 };
 
