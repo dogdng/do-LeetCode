@@ -15,35 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="两数之和.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="三数之和.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="16最接近的三数之和.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="两数相加.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="43字符串相乘.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="3无重复字符的最长子串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="295_数据流的中位数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="4_寻找两个有序数组的中位数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="5_最长回文子串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="..\readme.md" />
+    <None Include="16_最接近的三数之和.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="2_两数相加.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="15_三数之和.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="1_两数之和.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="43_字符串相乘.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="3_无重复字符的最长子串.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="295_数据流的中位数.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="4_寻找两个有序数组的中位数.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="5_最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="1162地图分析.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
