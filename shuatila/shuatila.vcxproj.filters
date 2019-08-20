@@ -61,10 +61,14 @@
     <None Include="11_盛最多水的容器.cpp">
       <Filter>源文件</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="14_最长公共前缀.cpp">
+    <None Include="14_最长公共前缀.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
+    </None>
+    <None Include="26_删除排序数组中的重复项.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="20_有效的括号.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -49,7 +49,11 @@
     <None Include="11_盛最多水的容器.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="14_最长公共前缀.cpp" />
+    <None Include="14_最长公共前缀.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="26_删除排序数组中的重复项.cpp" />
+    <None Include="20_有效的括号.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
