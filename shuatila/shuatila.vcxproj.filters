@@ -46,10 +46,17 @@
     <None Include="1162地图分析.cpp">
       <Filter>源文件</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="100_相同的树.cpp">
+    <None Include="104_二叉树的最大深度.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
+    </None>
+    <None Include="98_验证二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="100_相同的树.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="8_字符串转换整数 %28atoi%29.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -40,7 +40,10 @@
     <None Include="5_最长回文子串.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="100_相同的树.cpp" />
+    <None Include="100_相同的树.cpp" />
+    <None Include="104_二叉树的最大深度.cpp" />
+    <None Include="98_验证二叉搜索树.cpp" />
+    <None Include="8_字符串转换整数 %28atoi%29.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
