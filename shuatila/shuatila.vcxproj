@@ -80,7 +80,10 @@
     <None Include="217_存在重复元素.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="46_全排列.cpp" />
+    <None Include="46_全排列.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="54_螺旋矩阵.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

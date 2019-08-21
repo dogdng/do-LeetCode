@@ -94,10 +94,11 @@
     <None Include="217_存在重复元素.cpp">
       <Filter>源文件</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="46_全排列.cpp">
+    <None Include="46_全排列.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
+    </None>
+    <None Include="54_螺旋矩阵.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
