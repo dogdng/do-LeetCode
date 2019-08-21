@@ -64,6 +64,15 @@
   <ItemGroup>
     <None Include="78_子集.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="344_反转字符串.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="53_最大子序和.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="70_ 爬楼梯.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>

@@ -79,5 +79,14 @@
     <None Include="78_子集.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="344_反转字符串.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="53_最大子序和.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="70_ 爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
