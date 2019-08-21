@@ -70,5 +70,14 @@
     <None Include="20_有效的括号.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="23_合并K个排序链表.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="33_搜索旋转排序数组.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="78_子集.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

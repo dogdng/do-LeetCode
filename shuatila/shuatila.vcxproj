@@ -55,6 +55,15 @@
     <None Include="26_删除排序数组中的重复项.cpp" />
     <None Include="20_有效的括号.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="23_合并K个排序链表.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="33_搜索旋转排序数组.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="78_子集.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>
