@@ -85,6 +85,15 @@
   <ItemGroup>
     <None Include="54_螺旋矩阵.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="59_螺旋矩阵II.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="61_旋转链表.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="206_翻转链表.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>

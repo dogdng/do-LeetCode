@@ -100,5 +100,14 @@
     <None Include="54_螺旋矩阵.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="59_螺旋矩阵II.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="61_旋转链表.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="206_翻转链表.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
