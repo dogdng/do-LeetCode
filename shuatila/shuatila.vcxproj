@@ -76,6 +76,12 @@
   <ItemGroup>
     <None Include="292_Nim游戏.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="217_存在重复元素.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="46_全排列.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>
