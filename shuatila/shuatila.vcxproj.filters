@@ -109,5 +109,25 @@
     <None Include="206_翻转链表.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="237_删除链表中的节点.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="62_不同路径.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="238_除自身以外数组的乘积.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="122_买卖股票的最佳时机II.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="121_买卖股票的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="557_反转字符串中的单词III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

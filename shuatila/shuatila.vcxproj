@@ -94,6 +94,20 @@
   <ItemGroup>
     <None Include="206_翻转链表.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="237_删除链表中的节点.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="62_不同路径.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="238_除自身以外数组的乘积.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="121_买卖股票的最佳时机.cpp" />
+    <None Include="122_买卖股票的最佳时机II.cpp" />
+    <ClCompile Include="557_反转字符串中的单词III.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{86D40231-0235-4890-A645-D2EA7CFA6B51}</ProjectGuid>
