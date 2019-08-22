@@ -130,12 +130,18 @@
     <None Include="88_合并两个有序数组.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="236_二叉树的最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="235_二叉搜索树的最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="557_反转字符串中的单词III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="236_二叉树的最近公共祖先.cpp">
+    <ClCompile Include="231_2的幂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
