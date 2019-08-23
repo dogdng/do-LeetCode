@@ -43,9 +43,6 @@
     <None Include="5_最长回文子串.cpp">
       <Filter>源文件</Filter>
     </None>
-    <None Include="1162地图分析.cpp">
-      <Filter>源文件</Filter>
-    </None>
     <None Include="104_二叉树的最大深度.cpp">
       <Filter>源文件</Filter>
     </None>
@@ -136,13 +133,47 @@
     <None Include="235_二叉搜索树的最近公共祖先.cpp">
       <Filter>源文件</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="557_反转字符串中的单词III.cpp">
+    <None Include="231_2的幂.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="231_2的幂.cpp">
+    </None>
+    <None Include="557_反转字符串中的单词III.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
+    </None>
+    <None Include="215_数组中的第K个最大元素.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="230_二叉搜索树中第K小的元素.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="169_求众数.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="160_相交链表.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="155_最小栈.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="124_二叉树中的最大路径和.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="148_排序链表.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="1162_地图分析.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="146_LRU缓存机制.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="141_环形链表.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="142_环形链表II.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="136_只出现一次的数字.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

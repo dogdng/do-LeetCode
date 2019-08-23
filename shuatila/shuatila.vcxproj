@@ -35,7 +35,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="295_数据流的中位数.cpp" />
-    <None Include="1162地图分析.cpp" />
+    <None Include="1162_地图分析.cpp" />
     <None Include="4_寻找两个有序数组的中位数.cpp" />
     <None Include="5_最长回文子串.cpp" />
   </ItemGroup>
@@ -104,14 +104,45 @@
     <None Include="238_除自身以外数组的乘积.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="231_2的幂.cpp" />
+    <None Include="231_2的幂.cpp" />
     <None Include="235_二叉搜索树的最近公共祖先.cpp" />
     <None Include="236_二叉树的最近公共祖先.cpp" />
     <None Include="88_合并两个有序数组.cpp" />
     <None Include="89_格雷编码.cpp" />
     <None Include="121_买卖股票的最佳时机.cpp" />
     <None Include="122_买卖股票的最佳时机II.cpp" />
-    <ClCompile Include="557_反转字符串中的单词III.cpp" />
+    <None Include="557_反转字符串中的单词III.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="215_数组中的第K个最大元素.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="230_二叉搜索树中第K小的元素.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="169_求众数.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="160_相交链表.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="155_最小栈.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="124_二叉树中的最大路径和.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="148_排序链表.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="146_LRU缓存机制.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="141_环形链表.cpp" />
+    <None Include="142_环形链表II.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="136_只出现一次的数字.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
