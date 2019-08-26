@@ -175,9 +175,21 @@
     <None Include="136_只出现一次的数字.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="5059_单行键盘.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="5062_连接棒材的最低费用.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="源.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="1012_至少有1位重复的数字.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="源1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
