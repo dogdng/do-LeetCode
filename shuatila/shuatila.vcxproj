@@ -149,7 +149,12 @@
     <None Include="5062_连接棒材的最低费用.cpp" />
     <None Include="源.cpp" />
     <None Include="1012_至少有1位重复的数字.cpp" />
+    <None Include="马踏棋盘.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="52_N皇后II.cpp" />
     <ClCompile Include="源1.cpp" />
+    <None Include="51_N皇后.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
