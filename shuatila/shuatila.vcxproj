@@ -153,6 +153,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="52_N皇后II.cpp" />
+    <None Include="198_打家劫舍.cpp" />
+    <None Include="438_找到字符串中所有字母异位词.cpp" />
     <ClCompile Include="源1.cpp" />
     <None Include="51_N皇后.cpp" />
   </ItemGroup>
