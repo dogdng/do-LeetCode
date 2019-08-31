@@ -202,9 +202,27 @@
     <None Include="438_找到字符串中所有字母异位词.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="448_找到所有数组中消失的数字.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="10_正则表达式匹配.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="12_整数转罗马数字.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="17_电话号码的字母组合.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="19_删除链表的倒数第N个节点.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="461_汉明距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
