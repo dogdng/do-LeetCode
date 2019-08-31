@@ -161,6 +161,7 @@
     <None Include="17_电话号码的字母组合.cpp" />
     <None Include="19_删除链表的倒数第N个节点.cpp" />
     <None Include="22_括号生成.cpp" />
+    <None Include="31_下一个排列.cpp" />
     <ClCompile Include="461_汉明距离.cpp" />
     <ClCompile Include="源1.cpp" />
     <None Include="51_N皇后.cpp" />
