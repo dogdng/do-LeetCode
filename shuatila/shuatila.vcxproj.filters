@@ -217,6 +217,9 @@
     <None Include="19_删除链表的倒数第N个节点.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="22_括号生成.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="源1.cpp">
