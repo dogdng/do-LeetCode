@@ -162,8 +162,9 @@
     <None Include="19_删除链表的倒数第N个节点.cpp" />
     <None Include="22_括号生成.cpp" />
     <None Include="31_下一个排列.cpp" />
+    <None Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="461_汉明距离.cpp" />
-    <ClCompile Include="源1.cpp" />
+    <None Include="源1.cpp" />
     <None Include="51_N皇后.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

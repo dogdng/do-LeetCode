@@ -223,11 +223,14 @@
     <None Include="31_下一个排列.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="461_汉明距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
